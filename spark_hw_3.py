@@ -37,3 +37,4 @@ query = odd_rate_sum \
 
 # Подождать, пока обработка потока данных не будет завершена
 query.awaitTermination()
+# Нажимаю ctrl + c
